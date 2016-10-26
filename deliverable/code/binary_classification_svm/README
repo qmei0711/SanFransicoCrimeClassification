@@ -1,0 +1,11 @@
+This is our improved version of binary classifier on “Larceny/Theft”. And we are using SVM  here.
+
+In order to run get the result:
+1. Put the data you’ve download “train.csv” in the data directory.
+2. Simply cd to the current directory and run 
+ python preprocess.py 
+ python ml.py
+
+And that’s done.
+
+In this version, our accuracy is around 0.6 if everything goes right.

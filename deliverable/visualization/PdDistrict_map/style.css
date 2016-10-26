@@ -1,0 +1,75 @@
+body {
+  background: #000000;
+  color: #FFFFFF;
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Fjalla One', sans-serif;
+  font:12px sans-serif;
+}
+
+svg {
+  margin: 20px;
+}
+
+h1 {
+	font-size: 24px;
+	text-align: center;
+	font-family:sans-serif;
+}
+
+.glyphicon{
+  color: #888;
+  font-size: 100px;
+  margin-left: -900px;
+  margin-top: 100px;
+}
+
+.glyphicon-pause{
+  color: #888;
+}
+
+.days{
+	margin-top: -500px;
+	margin-left: -1100px;
+	font: 14px;
+}
+
+.category{
+	margin-left: -900px;
+	margin-top: -200px;
+}
+
+.category li{
+	padding-bottom: 10px;
+}
+
+.days li{
+	padding-bottom: 5px;
+}
+
+li{
+	list-style: none;
+	font-size: 13px;
+}
+
+a{
+  color: #888;
+}
+
+a:hover, a:focus{
+  text-decoration: none;
+  cursor: pointer;
+  color: #363A44;
+}
+
+.mono{
+	color: #fff;
+}
+.active{
+	color: #fff;
+}
+
+.invisible{
+	display: none;
+}
